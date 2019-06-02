@@ -1,0 +1,2 @@
+System.out.println("Это домашнее задание");
+System.out.println("It's f a my home work");
